@@ -1,0 +1,24 @@
+# Notes of stuff I've done to my Kali VM throughout videos
+
+# apt
+open-vm-tools
+open-vm-tools-desktop
+gobuster
+seclists
+exiftool
+golang
+wmctrl
+
+# ff plugins
+foxy proxy
+
+# /opt
+Chankro (PHP Disabled Function Bypass)
+evilarc (ZipSlip)
+ghidra (https://ghidra-sre.org/)
+JAWS (Just Another Windows enum Script)
+LinEnum (https://github.com/rebootuser/LinEnum)
+magescan (Magento Scanner)
+mRemoteNG-Decrypt (Decrypt mRemoteNG Creds)
+BurpPro (paid software)
+
